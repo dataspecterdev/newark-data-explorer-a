@@ -1,4 +1,5 @@
-#Newark, DE Open Data Explorer
+  # Newark, DE Open Data Explorer
+  
 An interactive, front-end dashboard that visualizes real-time crime and parks data for Newark, Delaware using open government APIs and modern web technologies.
 
 Features
